@@ -10,6 +10,12 @@ import Foundation
 
 struct K {
     
+    struct NavigationBar {
+        static let navigationTitle =  "Settings"
+        static let homeTitle = "Home"
+    }
+    
+    
     struct Segue {
         static let showOnboardingScreen = "toOnboarding"
         static let showLoginSignup = "toLoginSignUp"

@@ -45,7 +45,7 @@ class LoadingViewController : UIViewController {
         } else {
             
             //PresenterManager.shared.showVC(vc: .onboarding)
-              performSegue(withIdentifier: K.Segue.showOnboardingScreen, sender: nil)
+            performSegue(withIdentifier: K.Segue.showOnboardingScreen, sender: nil)
         }
     }
     
