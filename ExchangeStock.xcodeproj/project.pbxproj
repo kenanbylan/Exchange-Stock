@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6E13628929BE8AB3002F76B5 /* AppButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E13628829BE8AB3002F76B5 /* AppButton.swift */; };
+		6E84E2A929BF86E5005CB740 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 6E84E2A829BF86E5005CB740 /* Podfile */; };
 		6EA841B929BE5779001C7E6A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EA841B829BE5779001C7E6A /* AppDelegate.swift */; };
 		6EA841BB29BE5779001C7E6A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EA841BA29BE5779001C7E6A /* SceneDelegate.swift */; };
 		6EA841C229BE5779001C7E6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EA841C129BE5779001C7E6A /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		6E13628829BE8AB3002F76B5 /* AppButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppButton.swift; sourceTree = "<group>"; };
+		6E84E2A829BF86E5005CB740 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 		6EA841B529BE5779001C7E6A /* ExchangeStock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExchangeStock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EA841B829BE5779001C7E6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6EA841BA29BE5779001C7E6A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 		6EA841AC29BE5779001C7E6A = {
 			isa = PBXGroup;
 			children = (
+				6E84E2A829BF86E5005CB740 /* Podfile */,
 				6EA841B729BE5779001C7E6A /* ExchangeStock */,
 				6EA841B629BE5779001C7E6A /* Products */,
 			);
@@ -218,6 +221,7 @@
 			files = (
 				6EA841CF29BE57D9001C7E6A /* LaunchScreen.storyboard in Resources */,
 				6EA841CD29BE57A4001C7E6A /* Main.storyboard in Resources */,
+				6E84E2A929BF86E5005CB740 /* Podfile in Resources */,
 				6EA841C229BE5779001C7E6A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
